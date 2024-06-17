@@ -27,3 +27,6 @@ Contributions are welcome! Please follow these steps:
 
 ## Acknowledgments
 - Inspiration from various online tutorials and documentation.
+
+## Demo
+![preview img](image/Slider-Website-Wildlife-Info-preview.png)
